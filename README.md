@@ -1,0 +1,2 @@
+# ReiseCar-WEBAPPLICATION
+It is WEB APPLICATION for finding the person with whom you share your ride. It implements the Car Pooling System. After successful registration/login To offer a ride he has to put in his details as well as his/her cars details and his/her travelling details To search for  a ride the riders has to put his/her travelling details like time of travel, date of travel, destination etc. 
